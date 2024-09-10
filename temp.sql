@@ -1,2 +1,2 @@
-select * from tempdb;
+select * from tempdb1;
 bhvgdg
