@@ -1,2 +1,2 @@
 select * from tempdb;
-bhvgdg
+bhvgd
