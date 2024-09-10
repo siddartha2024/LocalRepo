@@ -1,1 +1,1 @@
-select * from tempdb1;
+select * from tempdb;
